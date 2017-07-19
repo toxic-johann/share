@@ -21,9 +21,9 @@
 
 #### [SFDC 2016] How to build a complex web application with Vue.js 2.0
 
-> It seems that i have lost my PPT.
+[![](https://p5.ssl.qhimg.com/t012917e1d890723c95.png)](https://ppt.baomitu.com/d/567615ee#/)
 
-But you can watch video [here](http://www.itdks.com/dakashuo/detail/353#)!!
+And you can watch video [here](http://www.itdks.com/dakashuo/detail/353#)!!
 
 #### [SDCC 2016] How to build a complex web application with Vue.js 2.0
 
