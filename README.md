@@ -3,6 +3,9 @@
 >
 > Share what I learn, and learn from sharing.
 
+#### [Modern Web 2017] How to build your own PWA?
+[![How to build your own PWA?](https://p0.ssl.qhimg.com/t0116bb562ccfe2f79f.jpg)](https://ppt.baomitu.com/d/25ac95be#/)
+
 #### [Qcon 2017] How to build your own PWA?
 
 [![How to build your own PWA?](https://p5.ssl.qhimg.com/t011021a48618d498b3.png)](https://ppt.baomitu.com/d/95c32c5d#/)
